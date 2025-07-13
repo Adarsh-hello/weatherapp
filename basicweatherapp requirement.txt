@@ -1,0 +1,8 @@
+pip install requests tk
+Dependencies:
+
+requests – For API call
+
+tkinter – GUI
+
+json – Parsing weather data
